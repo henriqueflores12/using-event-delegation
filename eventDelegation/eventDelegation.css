@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white;
+    display: grid;
+    justify-content: center;
+    font-size: xx-large;
+  }
+  .complete {
+   background-color: gray;
+   border: 3px solid white;  
+  }
+
+  li {
+    display: grid;
+    justify-content: left;
+  }
+  #header {
+    display: grid;
+    justify-content: center;
+  }
+  #header2 {
+    display: grid;
+    justify-content: center;
+  }
+#trashcan1{
+    border: 2px solid red;
+    display: flex;
+}
+#trashcan2{
+    border: 2px solid red;
+    display: flex;
+}
+#trashcan3{
+    border: 2px solid red;
+    display: flex;
+}
+#trashcan4{
+    border: 2px solid red;
+    display: flex;
+}
+
